@@ -1,0 +1,21 @@
+{
+    "name": "babel-plugin-transform-for-of-array",
+    "version": "1.0.0",
+    "description": "for-of statement transformer which only support array or array-like object",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ecomfe/babel-plugin-transform-for-of-array.git"
+    },
+    "bugs": "http://github.com/ecomfe/babel-plugin-transform-for-of-array/issues",
+    "license": "MIT",
+    "main": "lib/index.js",
+    "author": {
+        "name": "zongyu",
+        "email": "liuxuanzy@qq.com"
+    },
+    "keywords": [
+        "babel-plugin",
+        "for-of"
+    ],
+    "readme": "README.md"
+}
