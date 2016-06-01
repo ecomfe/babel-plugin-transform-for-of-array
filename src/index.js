@@ -1,6 +1,6 @@
 /**
  * @file 将for - of 循环翻译成数组的形式
- * @author zongyu(zongyu@baidu.com)
+ * @author liuxuanzy(liuxuanzy@qq.com)
  */
 
 export default function ({template, types: t}) {
